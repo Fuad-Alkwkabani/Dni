@@ -52,7 +52,7 @@ Para ejecutar las pruebas unitarias, utiliza los siguientes comandos:
   ```bash
   mvn test
 
-   <h3>Captura de la cobertura de tests</h3>
+<h3>Captura de la cobertura de tests</h3>
     <img src="/foto/Imagen pegada.png"  alt="Cobertura de Tests" />
 
 <p><strong>Autor:</strong> FUAD AL KWKABANI  <a href="https://github.com/Fuad-Alkwkabani">GitHub</a>
