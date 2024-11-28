@@ -33,10 +33,9 @@ public void execute() {
         }
     }
 
-    // Calcular la letra del DNI
+    
     char dniLetter = calculator.calculateLetter(dniNumber);
 
-    // Mostrar el resultado
     view.showMessage("El DNI completo es: " + dniNumber + dniLetter);
 }
 }
